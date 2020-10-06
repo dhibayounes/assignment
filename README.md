@@ -1,6 +1,6 @@
 # How to report your solutions for course assignments
 
-1. fork this repo from github,
+1. fork this repo from github
 2. change the fork name as follows: first_name
 3. clone it in your local home
 4. Create a directory into this clone having as name your_first_name
